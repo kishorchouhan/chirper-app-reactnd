@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chirper-app-reactnd/static/css/main.c0322f3e.chunk.css",
+    "main.js": "/chirper-app-reactnd/static/js/main.27393cbe.chunk.js",
+    "main.js.map": "/chirper-app-reactnd/static/js/main.27393cbe.chunk.js.map",
+    "runtime-main.js": "/chirper-app-reactnd/static/js/runtime-main.5541a6c9.js",
+    "runtime-main.js.map": "/chirper-app-reactnd/static/js/runtime-main.5541a6c9.js.map",
+    "static/js/2.e2ddf368.chunk.js": "/chirper-app-reactnd/static/js/2.e2ddf368.chunk.js",
+    "static/js/2.e2ddf368.chunk.js.map": "/chirper-app-reactnd/static/js/2.e2ddf368.chunk.js.map",
+    "index.html": "/chirper-app-reactnd/index.html",
+    "precache-manifest.6a1f7d077182446b5f25f1865dfeeee6.js": "/chirper-app-reactnd/precache-manifest.6a1f7d077182446b5f25f1865dfeeee6.js",
+    "service-worker.js": "/chirper-app-reactnd/service-worker.js",
+    "static/css/main.c0322f3e.chunk.css.map": "/chirper-app-reactnd/static/css/main.c0322f3e.chunk.css.map",
+    "static/js/2.e2ddf368.chunk.js.LICENSE.txt": "/chirper-app-reactnd/static/js/2.e2ddf368.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5541a6c9.js",
+    "static/js/2.e2ddf368.chunk.js",
+    "static/css/main.c0322f3e.chunk.css",
+    "static/js/main.27393cbe.chunk.js"
+  ]
+}
