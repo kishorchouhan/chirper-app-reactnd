@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kishorchouhan.github.io/chirper-app-reactnd",
   "name": "chirper",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -37,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
