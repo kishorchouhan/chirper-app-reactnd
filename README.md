@@ -22,7 +22,7 @@ The project can be run with
 
 The project can be viewed in the browser at
 
-- [http://localhost:3000](http://localhost:3000)
+- [http://localhost:3000/chirper-app-reactnd/](http://localhost:3000/chirper-app-reactnd/)
 
 ## Description
 
