@@ -6,12 +6,12 @@ export default function Nav() {
     <nav className='nav'>
       <ul>
         <li>
-          <NavLink to='/' exact activeClassName='active'>
+          <NavLink to='/chirper-app-reactnd/' exact activeClassName='active'>
             Home
           </NavLink>
         </li>
         <li>
-          <NavLink to='/new' activeClassName='active'>
+          <NavLink to='/chirper-app-reactnd/new' activeClassName='active'>
             New Tweet
           </NavLink>
         </li>

@@ -36,7 +36,7 @@ class NewTweet extends Component {
     const { text, toHome } = this.state;
 
     if (toHome === true) {
-      return <Redirect to='/' />;
+      return <Redirect to='/chirper-app-reactnd/' />;
     }
     const tweetLeft = 280 - text.length;
 

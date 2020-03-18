@@ -49,7 +49,7 @@ class Tweet extends Component {
     } = tweet;
 
     return (
-      <Link to={`/tweet/${id}`} className='tweet'>
+      <Link to={`/chirper-app-reactnd/tweet/${id}`} className='tweet'>
         <img src={avatar} alt={`Avatar of ${name}`} className='avatar' />
         <div className='tweet-info'>
           <div>
